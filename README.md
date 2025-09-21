@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Santosh Dharmapuri, an Engineer Turned into a Data Analyst.
-- 👀 I’m interested in Data Projects, Data Analyst, and Data Science.
+- 👋 Hi, I’m @Santosh Dharmapuri, an Engineer by brain, Data Analyst by heart.
+- 👀 I’m interested in Data Projects, Data Analytics, and Data Science.
 - 🌱 I’m currently learning new advancements in the Data Field.
 - 💞️ I’m looking to collaborate on Data Projects to bring new insights to grow Businesses.
 
